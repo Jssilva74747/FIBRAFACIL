@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.69",
+  "Version": "2.0.70",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Jssilva74747/FIBRAFACIL/main/config.json",
   "Sms": "",
@@ -245,8 +245,8 @@
       "ProxyIP": "104.26.4.32",
       "ProxyPort": "80",
       "Info": "Proxy"
- },
- {
+     },
+     {
       "Name": "🟣VIVO CONTROLE [13]",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: velox2024.online[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
@@ -255,8 +255,8 @@
       "ProxyIP": "104.26.5.32",
       "ProxyPort": "80",
       "Info": "Proxy"
-  },
-  {
+     },
+     {
       "Name": "🟣VIVO TURBO [1]",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
@@ -265,8 +265,8 @@
       "ProxyIP": "vigia.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-  },
-  {
+     },
+     {
       "Name": "🟣VIVO TURBO [2]",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
@@ -275,8 +275,8 @@
       "ProxyIP": "141.193.213.11",
       "ProxyPort": "80",
       "Info": "Proxy"
-  },
-  {
+     },
+     {
       "Name": "🟣VIVO SECURITY PLANOS 🍻[1]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: meuplano.tim.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
