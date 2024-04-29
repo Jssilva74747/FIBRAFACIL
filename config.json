@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.68",
+  "Version": "2.0.69",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Jssilva74747/FIBRAFACIL/main/config.json",
   "Sms": "",
@@ -70,27 +70,6 @@
       "Name": "🟣VIVO SECURITY [6]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "38.9.119.244",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "🟣VIVO SECURITY [8]",
-      "FLAG": "vivo.png",
-      "Payload": "[delay_split]ACL /revive.vivointernetgratis.com.br HTTP/1.1][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "38.9.119.244",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "🟣VIVO SECURITY [9]",
-      "FLAG": "vivo.png",
-      "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote 
-HTTP/1.1[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "38.9.119.244",
