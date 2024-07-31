@@ -1,54 +1,53 @@
 [
     {
-        "auth": {
-            "password": null,
-            "username": null,
+            "auth": {
+            "password": "ssht",
+            "username": "ssht",
             "v2ray_uuid": null
         },
-        "category": {
+            "category": {
             "color": "#E25A3896",
-            "created_at": "2023-03-15 00:47:08",
-            "id": 2751,
-            "name": "💜💜    PREMIUM - PAGO ⬇⬇",
-            "sorter": 30,
+            "created_at": "2023-07-30 19:55:24",
+            "id": 5612,
+            "name": "😉😉    FREE - GRATIS ⬇⬇",
+            "sorter": 10,
             "status": "ACTIVE",
-            "updated_at": "2023-10-24 16:44:30",
+            "updated_at": "2023-10-24 19:07:29",
             "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
         },
-        "category_id": 2751,
+        "category_id": 5612,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [rotate=no.descomplica.com.br;wtaphf.descomplica.com.br;descomplica.com.br][crlf][crlf][crlf][crlf]PUT- / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]#CONNECT /cdn-cgi/trace HTTP/1.1[crlf]Host: [rotate=no.descomplica.com.br;wtaphf.descomplica.com.br;descomplica.com.br][crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]#CONNECT wss://no.descomplica.com.br/ HTTP/1.1[crlf]Host: appdev.c6bank.com.br[crlf][crlf][split][crlf][crlf]GET-ACL /?/ / HTTP/1.1[crlf]Host: [host]][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Pragma: no-cache[crlf]Cache-Control: DELETE-cache[crlf]PUT- /?/[crlf][crlf]",
+            "payload": "[split]PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: mtls.sandbox.c6bank.com.br[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: [host][lf]Upgrade: websocket[lf][lf]#ACL /index.html HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]#CONNECT / HTTP/1.1[crlf]host: www.c6bank.com.br[crlf][crlf][split][crlf]TOPSPEED- / HTTP/1.1[crlf]host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf]@TSTOPSPEED[crlf][crlf]#GET / HTTP/1.1\\nHost: api.sandbox.c6bank.com.br\\nExpect: 100-continue\\n\\n[split]\\n\\nACL /?/ HTTP/1.1\\nHost: [host]\\nExpect: 100-continue\\nUpgrade: websocket\\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\\n\\n#PUT / HTTP/1.1[crlf]Host: jobs.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Referer: SSHT[crlf][crlf]",
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2023-06-24 11:17:30",
+        "created_at": "2023-08-08 04:57:10",
         "description": "SALDO VALIDO",
         "dns_server": {
             "dns1": "8.8.8.8",
-            "dns2": "1.0.0.1"
+            "dns2": "1.1.1.1"
         },
         "icon": "https://raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_VPN/page/null/IC/TIM_P.png",
-        "id": 55018,
+        "id": 74784,
         "mode": "SSH_PROXY",
-        "name": "✅ TIM CLOUDFLARE [5]",
+        "name": "✅ TIM CLOUDFLARE [6]",
         "proxy": {
-            "host": "mtls.sandbox.c6bank.com.br#162.159.153.238#104.18.33.113#162.159.152.26#104.19.241.93#104.19.239.25#162.159.153.238#172.64.154.143#104.18.29.182",
+            "host": "172.64.154.143#mtls.sandbox.c6bank.com.br#162.159.153.238#104.18.33.113#162.159.152.26#blog.c6bank.com.br#104.18.99.70#104.18.98.70#104.19.240.25#104.18.28.182#104.19.239.25",
             "port": 80
         },
         "server": {
-            "host": "premium.sshtproject.com#premium2.sshtproject.com",
+            "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
         },
-        "sorter": 21,
+        "sorter": 29,
         "status": "ACTIVE",
         "tls_version": "TLSv1.2",
         "udp_ports": [
-            7300,
-            7200
+            7300
         ],
-        "updated_at": "2023-10-24 03:36:10",
-        "url_check_user": "http://144.22.198.190:5000",
+        "updated_at": "2023-10-29 00:09:23",
+        "url_check_user": null,
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
     }
 ]
