@@ -298,7 +298,7 @@ HTTP/1.1[lf][lf]",
       "Info": "Proxy"
   },
   {
-      "Name": "🟣VIVO SECURITY PLANOS 🍻[3000]",
+      "Name": "🟣VIVO SECURITY PLANOS 🍻[[3000]]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: meuplano.tim.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
       "SNI": "",
