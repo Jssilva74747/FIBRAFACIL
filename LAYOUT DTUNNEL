@@ -21,7 +21,7 @@
         "id": 4665,
         "label": "Imagem de fundo",
         "name": "APP_BACKGROUND_IMAGE",
-        "value": "https://i.imgur.com/G78MLq0.jpeg",
+        "value": "null",
         "type": "IMAGE",
         "status": "ACTIVE",
         "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
