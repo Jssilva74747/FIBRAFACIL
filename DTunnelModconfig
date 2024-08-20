@@ -125,7 +125,7 @@
             "payload": null,
             "sni": null
         },
-        "config_v2ray": "vless://e165e18e-28a6-4622-ba47-488022ae3b54@api.vivo.com.br:2052?path=%2FAW5u61Vj%2F&security=none&encryption=none&host=brasil10.shop&type=ws#VIVO+EASY+BUG%F0%9F%9F%A3%F0%9F%9F%A3%F0%9F%92%8E%F0%9F%8F%86",
+        "config_v2ray": "dmxlc3M6Ly9lMTY1ZTE4ZS0yOGE2LTQ2MjItYmE0Ny00ODgwMjJhZTNiNTRAYXBpLnZpdm8uY29tLmJyOjIwNTI/cGF0aD0lMkZBVzV1NjFWaiUyRiZzZWN1cml0eT1ub25lJmVuY3J5cHRpb249bm9uZSZob3N0PWJyYXNpbDEwLnNob3AmdHlwZT13cyNWSVZPK0VBU1krQlVHJUYwJTlGJTlGJUEzJUYwJTlGJTlGJUEzJUYwJTlGJTkyJThFJUYwJTlGJThGJTg2=",
         "created_at": "2023-09-28 20:54:25",
         "description": "CADASTRO - SALDO VALIDO",
         "dns_server": {
