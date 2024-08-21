@@ -1,33 +1,33 @@
 [
     {
-        "id": 4663,
+        "id": 8611,
         "label": "Nome do app",
         "name": "APP_NAME",
-        "value": null,
+        "value": "Digital Network [ Versão 39]",
         "type": "STRING",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4664,
+        "id": 8612,
         "label": "Logo do app",
         "name": "APP_LOGO",
-        "value": "https://i.imgur.com/G78MLq0.jpeg",
+        "value": null,
         "type": "IMAGE",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4665,
+        "id": 8613,
         "label": "Imagem de fundo",
         "name": "APP_BACKGROUND_IMAGE",
-        "value": "https://i.imgur.com/UpAEOid.jpg",
+        "value": "https://i.ibb.co/sw7DT1w/DTa125tehg.png",
         "type": "IMAGE",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4666,
+        "id": 8614,
         "label": "Tipo do fundo do app",
         "name": "APP_BACKGROUND_TYPE",
         "value": {
@@ -41,275 +41,275 @@
                     "value": "COLOR"
                 }
             ],
-            "selected": "IMAGE"
+            "selected": "COLOR"
         },
         "type": "SELECT",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4667,
+        "id": 8615,
         "label": "Cor de fundo",
         "name": "APP_BACKGROUND_COLOR",
-        "value": "#00000000",
+        "value": "#FFFFFFFF",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4668,
+        "id": 8616,
         "label": "Cor do card inicial",
         "name": "APP_CARD_COLOR",
-        "value": "#00000000",
+        "value": "#00520fff",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12987,
+        "id": 8617,
         "label": "Raio do card inicial",
         "name": "APP_CARD_RADIUS",
-        "value": 15,
+        "value": 20,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12988,
+        "id": 8618,
         "label": "Cor do card de status",
         "name": "APP_CARD_STATUS_COLOR",
-        "value": "#00000000",
+        "value": "#008039ff",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12989,
+        "id": 8619,
         "label": "Raio do card de status",
         "name": "APP_CARD_STATUS_RADIUS",
-        "value": 15,
+        "value": 5,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4669,
+        "id": 8620,
         "label": "Cor do card de configurações",
         "name": "APP_CARD_CONFIG_COLOR",
-        "value": "#00000000",
+        "value": "#81827dff",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4670,
+        "id": 8621,
         "label": "Cor do fundo dos dialogs",
         "name": "APP_DIALOG_BACKGROUND_COLOR",
-        "value": "#6e6e6e3b",
+        "value": "#23ccccff",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12990,
+        "id": 11726,
         "label": "Cor do fundo do dialog de log",
         "name": "APP_DIALOG_LOGGER_COLOR",
-        "value": "#6e6e6e3b",
+        "value": "#9bffffff",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4671,
+        "id": 8622,
         "label": "Cor das bordas",
         "name": "APP_BORDER_COLOR",
-        "value": "#6e6e6e",
+        "value": "#000000ef",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12991,
+        "id": 8623,
         "label": "Cor dos inputs",
         "name": "APP_INPUT_COLOR",
-        "value": "#00000000",
+        "value": "#fffffff9",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12992,
+        "id": 8624,
         "label": "Raio dos inputs",
         "name": "APP_INPUT_RADIUS",
-        "value": 15,
+        "value": 18,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4672,
+        "id": 8625,
         "label": "Cor dos textos",
         "name": "APP_TEXT_COLOR",
-        "value": "#FFFFFFFF",
+        "value": "#000000ff",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4673,
+        "id": 8626,
         "label": "Cor dos botões",
         "name": "APP_BUTTON_COLOR",
-        "value": "#6e6e6e3b",
+        "value": "#00a60bba",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12993,
+        "id": 8627,
         "label": "Raio dos botões",
         "name": "APP_BUTTON_RADIUS",
-        "value": 15,
+        "value": 6,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4674,
+        "id": 8628,
         "label": "Cor dos icones",
         "name": "APP_ICON_COLOR",
-        "value": "#FFFFFFFF",
+        "value": "#000000ff",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4675,
+        "id": 8629,
         "label": "Exibir modo de conexão",
         "name": "APP_SHOW_CONNECTION_MODE",
-        "value": false,
+        "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 23833,
+        "id": 23758,
         "label": "Atualizar automaticamente as configurações ao lançar uma atualização.",
         "name": "APP_CONFIG_AUTO_UPDATE",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4676,
+        "id": 8630,
         "label": "Iniciar o app automaticamente ao reiniciar o dispositivo",
         "name": "APP_AUTO_START",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12994,
+        "id": 8631,
         "label": "Usar limiter de conexão",
         "name": "APP_CONNECTION_LIMITER",
-        "value": false,
+        "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12995,
+        "id": 12186,
         "label": "Usar botão de atualizações",
         "name": "APP_BTN_UPDATE_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12996,
+        "id": 12187,
         "label": "Usar botão de registros",
         "name": "APP_BTN_LOGGER_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 12997,
+        "id": 12188,
         "label": "Usar botão de pagina webview",
         "name": "APP_BTN_PAGE_ENABLED",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 23834,
+        "id": 16068,
         "label": "Ativar dialog de erros",
         "name": "APP_DIALOG_ERROR_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 23835,
+        "id": 16069,
         "label": "Ativar dialog de checkuser",
         "name": "APP_CHECKUSER_DIALOG_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 23836,
+        "id": 16070,
         "label": "Ativar toast de sucesso",
         "name": "APP_SUCCESS_TOAST_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 23837,
+        "id": 16071,
         "label": "Ativar toast de erro",
         "name": "APP_ERROR_TOAST_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 23838,
+        "id": 16072,
         "label": "Usar layout webview",
         "name": "APP_LAYOUT_WEBVIEW_ENABLED",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4677,
+        "id": 8632,
         "label": "Mensagem",
         "name": "APP_MESSAGE",
-        "value": null,
+        "value": "Bem vindo ao DIGITAL NETWORK",
         "type": "TEXT",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4679,
+        "id": 8633,
         "label": "URL de atualização do aplicativo",
         "name": "APP_UPDATE_URL",
         "value": null,
         "type": "URL",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4678,
+        "id": 8634,
         "label": "Tipo de mensagem",
         "name": "APP_MESSAGE_TYPE",
         "value": {
@@ -331,37 +331,37 @@
                     "value": "NONE"
                 }
             ],
-            "selected": "NONE"
+            "selected": "WELCOME"
         },
         "type": "SELECT",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 23839,
+        "id": 16073,
         "label": "LAYOUT WEBVIEW (POR SUA CONTA E RISCO)",
         "name": "APP_LAYOUT_WEBVIEW",
         "value": null,
         "type": "HTML",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4681,
+        "id": 8635,
         "label": "ANDROID WEBVIEW (POR SUA CONTA E RISCO)",
         "name": "APP_SUPPORT_BUTTON",
-        "value": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <title>5172750168 - @gvnet1</title>\n\n    <style>\n      :root {\n        font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;\n        line-height: 1.5;\n        font-weight: 400;\n        font-synthesis: none;\n        text-rendering: optimizeLegibility;\n        -webkit-font-smoothing: antialiased;\n        -moz-osx-font-smoothing: grayscale;\n        text-size-adjust: 100%;\n        -webkit-text-size-adjust: 100%;\n\n        --space-status-bar: 10px;\n        --space-nav-bar: 33px;\n      }\n\n      @-webkit-keyframes onePulse {\n        0% {\n          box-shadow: 0 0px 10px rgb(0 0 0 / 0.2)\n        }\n        50% {\n          box-shadow: 0 0px 0px rgb(0 0 0 / 0.2);\n        }\n        100% {\n          box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);\n        }\n      }\n\n      @keyframes onePulse {\n        0% {\n          box-shadow: 0 0px 0px rgb(0 0 0 / 0.2);\n        }\n        50% {\n          box-shadow: 0 0px 0px rgb(0 0 0 / 0.2);\n        }\n        100% {\n          box-shadow: 0 0px 0px rgb(0 0 0 / 0.2);\n        }\n      }\n\n      *,\n      *::before,\n      *::after {\n        margin: 0;\n        padding: 0;\n        box-sizing: border-box;\n      }\n\n      html,\n      body,\n      main {\n        width: 100%;\n        height: 100%;\n      }\n\n      body {\n        background: #00000000;\n      }\n\n      main {\n        max-width: 650px;\n\n        display: flex;\n        flex-direction: column;\n        justify-content: space-between;\n\n        margin: 0 auto 0 auto;\n        padding: var(--space-status-bar) 10px var(--space-nav-bar) 10px;\n      }\n\n      section.top {\n        width: 100%;\n        height: auto;\n\n        display: flex;\n        align-items: center;\n      }\n\n      section.top button {\n        margin-left: auto;\n        padding: 3.5%;\n\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        gap: 7px;\n\n        border: 0;\n        border-radius: 10px;\n\n        background: #00000000;\n      }\n\n      section.top button svg {\n        color: #ffffff;\n      }\n\n      section.top button span {\n        color: #ffffff;\n        font-weight: 500;\n        font-size: 0.7rem;\n      }\n\n      section.bottom {\n        width: 100%;\n        height: auto;\n        /* background: blue; */\n\n        display: flex;\n        flex-direction: column;\n        align-items: center;\n      }\n\n      section.bottom div.container-local-ip {\n        width: auto;\n        height: auto;\n\n        display: flex;\n        align-items: center;\n\n        padding: 10px 15px;\n\n        border-radius: 10px;\n\n        background: #000000;\n\n        transition: all 0.1s ease 0.1s;\n      }\n\n      section.bottom div.container-local-ip span {\n        width: 100%;\n        height: auto;\n\n        color: #ffffff;\n        font-weight: 500;\n        font-size: 0.8rem;\n      }\n\n      section.bottom div.container-tools {\n        width: 100%;\n        height: auto;\n\n        display: flex;\n        justify-content: center;\n\n        position: relative;\n      }\n\n      section.bottom div.container-tools button {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        gap: 9px;\n\n        margin: 7% 0px 0px 0px;\n        padding: 10px 6%;\n\n        border: 0;\n        border-radius: 10px;\n\n        box-shadow: 0 3px 10px rgb(0 0 0 / 0)\n\n        transition: all linear;\n\n        background: #000000;\n      }\n\n      section.bottom div.container-tools button svg {\n        color: #ffffff;\n      }\n\n      section.bottom div.container-tools button span {\n        color: #ffffff;\n      }\n\n      section.bottom div.container-tools ul {\n        width: auto;\n        min-width: 90%;\n        max-width: 300px;\n        height: 55px;\n\n        display: flex;\n        align-items: center;\n        justify-content: space-around;\n        gap: 5px;\n\n        position: absolute;\n        bottom: 90%;\n\n        padding: 0 5px;\n\n        border-radius: 50px;\n        box-shadow: 0 3px 10px rgb(0 0 0 / 0)\n\n        opacity: 0;\n        transform: scale(0);\n        transform-origin: bottom center;\n\n        transition: all 0.1s ease 0.1s;\n\n        background: #00000000;\n      }\n\n      section.bottom div.container-tools ul li {\n        width: 57px;\n        height: 57px;\n\n        display: flex;\n        justify-content: center;\n        align-items: center;\n\n        border: 1px solid #000000;\n        border-radius: 50%;\n\n        box-shadow: 0px 0px 6px 0px rgba(204, 189, 189, 189);\n\n        background: #00000000;\n      }\n\n      section.bottom div.container-tools ul li svg {\n        color: #ffffff;\n      }\n\n      section.bottom div.container-tools.active button {\n        -webkit-animation: onePulse 0.4s forwards linear;\n        animation: onePulse 0.4s forwards linear;\n      }\n\n      section.bottom div.container-tools.active ul {\n        opacity: 1;\n        transform: scale(1);\n      }\n\n      .hidden {\n        opacity: 0;\n        visibility: hidden;\n      }\n\n      .display-none {\n        display: none;\n      }\n    </style>\n  </head>\n  <body>\n    <main>\n      <section class=\"top\">\n        <button type=\"button\">\n          <svg\n            xmlns=\"http://www.w3.org/2000/svg\"\n            width=\"0\"\n            height=\"0\"\n            fill=\"currentColor\"\n            class=\"bi bi-git\"\n            viewBox=\"0 0 16 16\"\n          >\n            <path\n              d=\"M15.698 7.287 8.712.302a1.03 1.03 0 0 0-1.457 0l-1.45 1.45 1.84 1.84a1.223 1.223 0 0 1 1.55 1.56l1.773 1.774a1.224 1.224 0 0 1 1.267 2.025 1.226 1.226 0 0 1-2.002-1.334L8.58 5.963v4.353a1.226 1.226 0 1 1-1.008-.036V5.887a1.226 1.226 0 0 1-.666-1.608L5.093 2.465l-4.79 4.79a1.03 1.03 0 0 0 0 1.457l6.986 6.986a1.03 1.03 0 0 0 1.457 0l6.953-6.953a1.031 1.031 0 0 0 0-1.457\"\n            />\n          </svg>\n\n         </button>\n      </section>\n\n      <section class=\"bottom\">\n        <div class=\"container-local-ip\">\n          <span id=\"local-ip\">Procurando IP...</span>\n        </div>\n\n        <div class=\"container-tools\">\n          <button type=\"button\" title=\"Ferramentas\">\n            <svg\n              xmlns=\"http://www.w3.org/2000/svg\"\n              width=\"16\"\n              height=\"16\"\n              fill=\"currentColor\"\n              class=\"bi bi-nut\"\n              viewBox=\"0 0 16 16\"\n            >\n              <path\n                d=\"m11.42 2 3.428 6-3.428 6H4.58L1.152 8 4.58 2h6.84zM4.58 1a1 1 0 0 0-.868.504l-3.428 6a1 1 0 0 0 0 .992l3.428 6A1 1 0 0 0 4.58 15h6.84a1 1 0 0 0 .868-.504l3.429-6a1 1 0 0 0 0-.992l-3.429-6A1 1 0 0 0 11.42 1H4.58z\"\n              />\n              <path\n                d=\"M6.848 5.933a2.5 2.5 0 1 0 2.5 4.33 2.5 2.5 0 0 0-2.5-4.33zm-1.78 3.915a3.5 3.5 0 1 1 6.061-3.5 3.5 3.5 0 0 1-6.062 3.5z\"\n              />\n            </svg>\n\n            <span>FUNÇÕES</span>\n          </button>\n\n          <ul>\n            <li id=\"checkuser\">\n              <svg\n                xmlns=\"http://www.w3.org/2000/svg\"\n                width=\"16\"\n                height=\"16\"\n                fill=\"currentColor\"\n                class=\"bi bi-calendar2-week\"\n                viewBox=\"0 0 16 16\"\n              >\n                <path\n                  d=\"M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z\"\n                />\n                <path\n                  d=\"M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4zM11 7.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-5 3a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1z\"\n                />\n              </svg>\n            </li>\n\n            <li id=\"battery\">\n              <svg\n                xmlns=\"http://www.w3.org/2000/svg\"\n                width=\"16\"\n                height=\"16\"\n                fill=\"currentColor\"\n                class=\"bi bi-battery-half\"\n                viewBox=\"0 0 16 16\"\n              >\n                <path d=\"M2 6h5v4H2V6z\" />\n                <path\n                  d=\"M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h10zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z\"\n                />\n              </svg>\n            </li>\n\n            <li id=\"apn\">\n              <svg\n                xmlns=\"http://www.w3.org/2000/svg\"\n                width=\"16\"\n                height=\"16\"\n                fill=\"currentColor\"\n                class=\"bi bi-wrench-adjustable-circle\"\n                viewBox=\"0 0 16 16\"\n              >\n                <path\n                  d=\"M12.496 8a4.491 4.491 0 0 1-1.703 3.526L9.497 8.5l2.959-1.11c.027.2.04.403.04.61Z\"\n                />\n                <path\n                  d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1 0a7 7 0 1 0-13.202 3.249l1.988-1.657a4.5 4.5 0 0 1 7.537-4.623L7.497 6.5l1 2.5 1.333 3.11c-.56.251-1.18.39-1.833.39a4.49 4.49 0 0 1-1.592-.29L4.747 14.2A7 7 0 0 0 15 8Zm-8.295.139a.25.25 0 0 0-.288-.376l-1.5.5.159.474.808-.27-.595.894a.25.25 0 0 0 .287.376l.808-.27-.595.894a.25.25 0 0 0 .287.376l1.5-.5-.159-.474-.808.27.596-.894a.25.25 0 0 0-.288-.376l-.808.27.596-.894Z\"\n                />\n              </svg>\n            </li>\n\n            <li id=\"clean\">\n              <svg\n                xmlns=\"http://www.w3.org/2000/svg\"\n                width=\"16\"\n                height=\"16\"\n                fill=\"currentColor\"\n                class=\"bi bi-trash3\"\n                viewBox=\"0 0 16 16\"\n              >\n                <path\n                  d=\"M6.5 1h3a.5.5 0 0 1 .5.5v1H6v-1a.5.5 0 0 1 .5-.5ZM11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3A1.5 1.5 0 0 0 5 1.5v1H2.506a.58.58 0 0 0-.01 0H1.5a.5.5 0 0 0 0 1h.538l.853 10.66A2 2 0 0 0 4.885 16h6.23a2 2 0 0 0 1.994-1.84l.853-10.66h.538a.5.5 0 0 0 0-1h-.995a.59.59 0 0 0-.01 0H11Zm1.958 1-.846 10.58a1 1 0 0 1-.997.92h-6.23a1 1 0 0 1-.997-.92L3.042 3.5h9.916Zm-7.487 1a.5.5 0 0 1 .528.47l.5 8.5a.5.5 0 0 1-.998.06L5 5.03a.5.5 0 0 1 .47-.53Zm5.058 0a.5.5 0 0 1 .47.53l-.5 8.5a.5.5 0 1 1-.998-.06l.5-8.5a.5.5 0 0 1 .528-.47ZM8 4.5a.5.5 0 0 1 .5.5v8.5a.5.5 0 0 1-1 0V5a.5.5 0 0 1 .5-.5Z\"\n                />\n              </svg>\n            </li>\n\n            <li id=\"speedtest\">\n              <svg\n                xmlns=\"http://www.w3.org/2000/svg\"\n                width=\"16\"\n                height=\"16\"\n                fill=\"currentColor\"\n                class=\"bi bi-speedometer2\"\n                viewBox=\"0 0 16 16\"\n              >\n                <path\n                  d=\"M8 4a.5.5 0 0 1 .5.5V6a.5.5 0 0 1-1 0V4.5A.5.5 0 0 1 8 4zM3.732 5.732a.5.5 0 0 1 .707 0l.915.914a.5.5 0 1 1-.708.708l-.914-.915a.5.5 0 0 1 0-.707zM2 10a.5.5 0 0 1 .5-.5h1.586a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 10zm9.5 0a.5.5 0 0 1 .5-.5h1.5a.5.5 0 0 1 0 1H12a.5.5 0 0 1-.5-.5zm.754-4.246a.389.389 0 0 0-.527-.02L7.547 9.31a.91.91 0 1 0 1.302 1.258l3.434-4.297a.389.389 0 0 0-.029-.518z\"\n                />\n                <path\n                  fill-rule=\"evenodd\"\n                  d=\"M0 10a8 8 0 1 1 15.547 2.661c-.442 1.253-1.845 1.602-2.932 1.25C11.309 13.488 9.475 13 8 13c-1.474 0-3.31.488-4.615.911-1.087.352-2.49.003-2.932-1.25A7.988 7.988 0 0 1 0 10zm8-7a7 7 0 0 0-6.603 9.329c.203.575.923.876 1.68.63C4.397 12.533 6.358 12 8 12s3.604.532 4.923.96c.757.245 1.477-.056 1.68-.631A7 7 0 0 0 8 3z\"\n                />\n              </svg>\n            </li>\n          </ul>\n        </div>\n      </section>\n    </main>\n\n    <!-- FUNÇÕES DO APP -->\n    <script>\n      const appStatusBar = () => DtGetStatusBarHeight.execute()\n      const appNavBar = () => DtGetNavigationBarHeight.execute()\n\n      const appLocalIp = () => Android.getLocalIP()\n\n      const appBattery = () => DtIgnoreBatteryOptimizations.execute()\n      const appApn = () => DtStartApnActivity.execute()\n      const appLink = (value) => DtStartWebViewActivity.execute(value)\n      const appOpenBrowser = (url) => DtOpenExternalUrl.execute(url)\n      const appClean = () => DtCleanApp.execute()\n      const appCheckUser = () => DtStartCheckUser.execute()\n      const appGetConfigVersion = () =>\n        DtGetLocalConfigVersion.execute() ?? \"1.0\"\n    </script>\n\n    <!-- DOM WRAPPER -->\n    <script>\n      const Dom = (selector) => {\n        const _elements = document.querySelectorAll(selector)\n\n        const wrapper = {\n          on(listeners) {\n            for (const [event, listener] of Object.entries(listeners)) {\n              _elements.forEach((element) => {\n                element.addEventListener(event, listener)\n              })\n            }\n\n            return wrapper\n          },\n          toggleClass: (token, force) => {\n            _elements.forEach((element) => {\n              element.classList.toggle(token, force)\n            })\n\n            return wrapper\n          },\n          html(value) {\n            _elements.forEach((element) => (element.innerHTML = value))\n            return wrapper\n          },\n        }\n\n        return wrapper\n      }\n    </script>\n\n    <!-- VÁRIAVEIS -->\n    <script>\n      const version = Dom(\"#version-value\")\n      const containerLocalIp = Dom(\"section.bottom div.container-local-ip\")\n      const localIp = Dom(\"#local-ip\")\n\n      const containerTools = Dom(\"section.bottom div.container-tools\")\n      const toolsButton = Dom(\"section.bottom div.container-tools button\")\n      const tools = Dom(\"section.bottom div.container-tools ul\")\n\n      const checkuser = Dom(\"#checkuser\")\n      const battery = Dom(\"#battery\")\n      const apn = Dom(\"#apn\")\n      const CleanDataApp = Dom(\"#clean\")\n      const speedtest = Dom(\"#speedtest\")\n    </script>\n\n    <!-- FUNÇÕES -->\n    <script>\n      document.documentElement.style.setProperty(\n        \"--space-status-bar\",\n        `${appStatusBar() + 10}px`\n      )\n\n      document.documentElement.style.setProperty(\n        \"--space-nav-bar\",\n        `${appNavBar() + 10}px`\n      )\n\n      const toggleTools = () => {\n        containerLocalIp.toggleClass(\"hidden\")\n        containerTools.toggleClass(\"active\")\n      }\n\n      const carrierLocalIp = () => {\n        setInterval(() => {\n          const carrierLocalIp = appLocalIp()\n\n          if (!carrierLocalIp) {\n            localIp.html(\"Procurando IP...\")\n          } else if (carrierLocalIp === \"127.0.0.1\") {\n            localIp.html(\"NO IP\")\n          } else {\n            localIp.html(`${carrierLocalIp}`)\n          }\n        }, 500)\n      }\n      const configVersion = () => {\n        setInterval(() => {\n          const getAtualVersion = appGetConfigVersion()\n\n          version.html(`VERSÃO: ${getAtualVersion}`)\n        }, 1000)\n      }\n\n      carrierLocalIp()\n      configVersion()\n    </script>\n\n    <!-- AÇÕES -->\n    <script>\n      toolsButton.on({ click: () => toggleTools() })\n\n      checkuser.on({ click: () => appCheckUser() })\n      battery.on({ click: () => appBattery() })\n      apn.on({ click: () => appApn() })\n      CleanDataApp.on({ click: () => appClean() })\n      speedtest.on({ click: () => appLink(\"https://fast.com\") })\n    </script>\n  </body>\n</html>\n",
+        "value": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n\n<head>\n  <meta charset=\"UTF-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n  <title>@apsnet29 style | Design by: @alexdsgmoura</title>\n\n  <style>\n    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');\n\n    :root {\n      --cor-de-fundo: transparent;\n      --cor-do-botao-de-teste-gratis: linear-gradient(to right, #008000 0%, #000000 100%);\n      --cor-de-fundo-dos-demais-botoes: #008000;\n\n      --cor-de-fund-dos-botoes-do-topo: linear-gradient(to right, #000000 0%, #000000 100%);\n      --altura-do-container-do-topo: 60px;\n    }\n\n    * {\n      margin: 0;\n      padding: 0;\n\n      box-sizing: border-box;\n    }\n\n    body {\n      background-color: var(--cor-de-fundo);\n\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n    }\n\n    body div.container-top {\n      width: 100%;\n      max-width: 425px;\n      height: 40px;\n\n      display: flex;\n\n      padding: var(--altura-do-container-do-topo) 10px;\n    }\n\n    body div.container-top .leftSide {\n      flex: 1;\n\n      display: flex;\n      align-items: center;\n      justify-content: flex-start;\n    }\n\n    body div.container-top .leftSide button {\n      width: 40px;\n      height: 40px;\n\n      display: flex;\n      justify-content: center;\n      align-items: center;\n\n      /* background-image: var(--cor-de-fund-dos-botoes-do-topo);  // CASO QUEIRA USAR UM BACKGROUND GRADIENTE SÓ DESCOMENTAR ESSA LINHA E COMENTAR A DE BAIXO!*/\n      background-color: #000000;\n\n      border: 0;\n      border-radius: 5px;\n      outline: none;\n\n      margin-right: 20px;\n\n      cursor: pointer;\n    }\n\n    body div.container-top .leftSide button:last-child {\n      margin-right: 0;\n    }\n\n    body div.container-top .leftSide button svg {\n      width: 50%;\n      height: 50%;\n\n      color: #19828aff;\n    }\n\n    body div.container-top .rightSide {\n      flex: 1;\n\n      display: flex;\n      align-items: center;\n      justify-content: flex-end;\n    }\n\n    body div.container-top .rightSide button {\n      width: 40px;\n      height: 40px;\n\n      display: flex;\n      justify-content: center;\n      align-items: center;\n\n      /* background-image: var(--cor-de-fund-dos-botoes-do-topo);  // CASO QUEIRA USAR UM BACKGROUND GRADIENTE SÓ DESCOMENTAR ESSA LINHA E COMENTAR A DE BAIXO!*/\n      background-color: #008000;\n\n      border: 0;\n      border-radius: 5px;\n      outline: none;\n\n      margin-right: 20px;\n\n      cursor: pointer;\n    }\n\n    body div.container-top .rightSide button:last-child {\n      margin-right: 0;\n    }\n\n    body div.container-top .rightSide button svg {\n      width: 50%;\n      height: 50%;\n\n      color: #FFFFFF;\n    }\n\n    body div.container {\n      width: 100%;\n      max-width: 425px;\n      height: auto;\n\n      position: absolute;\n\n      bottom: 80px;\n\n      display: flex;\n      flex-direction: column;\n\n      padding: 10px 10px;\n    }\n\n    body div.container div.top {\n      width: 100%;\n      height: auto;\n\n      margin-bottom: 10px;\n    }\n\n    body div.container div.top button {\n      width: 100%;\n      height: 40px;\n\n      display: flex;\n      align-items: center;\n      justify-content: center;\n\n      background-image: var(--cor-do-botao-de-teste-gratis);\n\n      border: 0;\n      border-radius: 5px;\n\n      cursor: pointer;\n    }\n\n    body div.container div.top button svg {\n      color: #FFFFFF;\n\n      transform: scaleX(-1);\n\n      margin-right: 10px;\n    }\n\n    body div.container div.top button span {\n      font-family: 'Roboto', sans-serif;\n      font-size: 1.3em;\n      font-weight: 300;\n      color: #FFFFFF;\n    }\n\n    body div.container div.bottom {\n      width: 100%;\n      height: auto;\n\n      display: grid;\n      grid-template-columns: repeat(4, 1fr);\n      gap: 10px;\n\n      border-top-left-radius: 50px;\n      border-top-right-radius: 50px;\n    }\n\n    body div.container div.bottom div.button {\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n\n      background-color: var(--cor-de-fundo-dos-demais-botoes);\n\n      border-radius: 15px;\n\n      -webkit-user-select: none;\n      user-select: none;\n\n      cursor: pointer;\n\n      padding: 8px 8px;\n    }\n\n    body div.container div.bottom div.button span {\n      font-family: 'Roboto', sans-serif;\n      font-weight: 300;\n      color: #FFFFFF;\n\n      font-size: 0.8em;\n\n      text-align: center;\n    }\n\n    body div.container div.bottom div.button svg {\n      margin-top: 5px;\n      color: #FFFFFF;\n      width: 25px;\n      height: 25px;\n    }\n\n    body div.container div.bottom div.button.update svg {\n      width: 25px;\n      height: 25px;\n    }\n\n    @media screen and (min-width: 280px) and (max-width: 375px) {\n\n      body div.container div.bottom {\n        gap: 5px;\n      }\n\n      body div.container div.bottom div.button span {\n        font-size: 0.5em;\n      }\n    }\n  </style>\n</head>\n\n<body>\n  <div class=\"container-top\">\n    <div class=\"leftSide\">\n\n    </div>\n\n    <div class=\"rightSide\">\n      <button class=\"checkuser\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-person\"\n          viewBox=\"0 0 16 16\">\n          <path\n            d=\"M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4Zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10Z\" />\n        </svg>\n      </button>\n\n      <button class=\"terms\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\"\n          class=\"bi bi-file-earmark-medical\" viewBox=\"0 0 16 16\">\n          <path\n            d=\"M7.5 5.5a.5.5 0 0 0-1 0v.634l-.549-.317a.5.5 0 1 0-.5.866L6 7l-.549.317a.5.5 0 1 0 .5.866l.549-.317V8.5a.5.5 0 1 0 1 0v-.634l.549.317a.5.5 0 1 0 .5-.866L8 7l.549-.317a.5.5 0 1 0-.5-.866l-.549.317V5.5zm-2 4.5a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5zm0 2a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5z\" />\n          <path\n            d=\"M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5v2z\" />\n        </svg>\n      </button>\n    </div>\n  </div>\n\n  <div class=\"container\">\n    <div class=\"top\">\n      <button>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-tags\"\n          viewBox=\"0 0 16 16\">\n          <path\n            d=\"M3 2v4.586l7 7L14.586 9l-7-7H3zM2 2a1 1 0 0 1 1-1h4.586a1 1 0 0 1 .707.293l7 7a1 1 0 0 1 0 1.414l-4.586 4.586a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 2 6.586V2z\" />\n          <path\n            d=\"M5.5 5a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1zm0 1a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM1 7.086a1 1 0 0 0 .293.707L8.75 15.25l-.043.043a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 0 7.586V3a1 1 0 0 1 1-1v5.086z\" />\n        </svg>\n\n        <span>FIBRA FACIL - Conectando você ao mundo!</span>\n      </button>\n    </div>\n\n    <div class=\"bottom\">\n      <div class=\"button renew\">\n        <span>\n          Renovar\n        </span>\n\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-cash-coin\"\n          viewBox=\"0 0 16 16\">\n          <path fill-rule=\"evenodd\" d=\"M11 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm5-4a5 5 0 1 1-10 0 5 5 0 0 1 10 0z\" />\n          <path\n            d=\"M9.438 11.944c.047.596.518 1.06 1.363 1.116v.44h.375v-.443c.875-.061 1.386-.529 1.386-1.207 0-.618-.39-.936-1.09-1.1l-.296-.07v-1.2c.376.043.614.248.671.532h.658c-.047-.575-.54-1.024-1.329-1.073V8.5h-.375v.45c-.747.073-1.255.522-1.255 1.158 0 .562.378.92 1.007 1.066l.248.061v1.272c-.384-.058-.639-.27-.696-.563h-.668zm1.36-1.354c-.369-.085-.569-.26-.569-.522 0-.294.216-.514.572-.578v1.1h-.003zm.432.746c.449.104.655.272.655.569 0 .339-.257.571-.709.614v-1.195l.054.012z\" />\n          <path\n            d=\"M1 0a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h4.083c.058-.344.145-.678.258-1H3a2 2 0 0 0-2-2V3a2 2 0 0 0 2-2h10a2 2 0 0 0 2 2v3.528c.38.34.717.728 1 1.154V1a1 1 0 0 0-1-1H1z\" />\n          <path d=\"M9.998 5.083 10 5a2 2 0 1 0-3.132 1.65 5.982 5.982 0 0 1 3.13-1.567z\" />\n        </svg>\n      </div>\n\n      <div class=\"button tutorials\">\n        <span>\n          LISTA IPTV\n        </span>\n\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-person-plus\"\n          viewBox=\"0 0 16 16\">\n          <path\n            d=\"M7.396 11V5.001H6.209v2.44H3.687V5H2.5v6h1.187V8.43h2.522V11h1.187zM8.5 5.001V11h2.188c1.811 0 2.685-1.107 2.685-3.015 0-1.894-.86-2.984-2.684-2.984H8.5zm1.187.967h.843c1.112 0 1.622.686 1.622 2.04 0 1.353-.505 2.02-1.622 2.02h-.843v-4.06z\" />\n          <path\n            d=\"M14 3a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12zM2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2z\" />\n        </svg>\n      </div>\n\n      <div class=\"button update\">\n        <span>SPEEDTEST</span>\n\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\"\n          class=\"bi bi-exclamation-triangle\" viewBox=\"0 0 16 16\">\n          <path fill-rule=\"evenodd\"\n            d=\"M0 0h1v15h15v1H0V0Zm14.817 3.113a.5.5 0 0 1 .07.704l-4.5 5.5a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61 4.15-5.073a.5.5 0 0 1 .704-.07Z\" />\n        </svg>\n      </div>\n\n      <div class=\"button apn\">\n        <span>Ajustes APN</span>\n\n        <svg class=\"settings\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\"\n          class=\"bi bi-gear-wide-connected\" viewBox=\"0 0 16 16\">\n          <path\n            d=\"M7.068.727c.243-.97 1.62-.97 1.864 0l.071.286a.96.96 0 0 0 1.622.434l.205-.211c.695-.719 1.888-.03 1.613.931l-.08.284a.96.96 0 0 0 1.187 1.187l.283-.081c.96-.275 1.65.918.931 1.613l-.211.205a.96.96 0 0 0 .434 1.622l.286.071c.97.243.97 1.62 0 1.864l-.286.071a.96.96 0 0 0-.434 1.622l.211.205c.719.695.03 1.888-.931 1.613l-.284-.08a.96.96 0 0 0-1.187 1.187l.081.283c.275.96-.918 1.65-1.613.931l-.205-.211a.96.96 0 0 0-1.622.434l-.071.286c-.243.97-1.62.97-1.864 0l-.071-.286a.96.96 0 0 0-1.622-.434l-.205.211c-.695.719-1.888.03-1.613-.931l.08-.284a.96.96 0 0 0-1.186-1.187l-.284.081c-.96.275-1.65-.918-.931-1.613l.211-.205a.96.96 0 0 0-.434-1.622l-.286-.071c-.97-.243-.97-1.62 0-1.864l.286-.071a.96.96 0 0 0 .434-1.622l-.211-.205c-.719-.695-.03-1.888.931-1.613l.284.08a.96.96 0 0 0 1.187-1.186l-.081-.284c-.275-.96.918-1.65 1.613-.931l.205.211a.96.96 0 0 0 1.622-.434l.071-.286zM12.973 8.5H8.25l-2.834 3.779A4.998 4.998 0 0 0 12.973 8.5zm0-1a4.998 4.998 0 0 0-7.557-3.779l2.834 3.78h4.723zM5.048 3.967c-.03.021-.058.043-.087.065l.087-.065zm-.431.355A4.984 4.984 0 0 0 3.002 8c0 1.455.622 2.765 1.615 3.678L7.375 8 4.617 4.322zm.344 7.646.087.065-.087-.065z\" />\n        </svg>\n      </div>\n    </div>\n  </div>\n\n  <script>\n    const checkUser = document.querySelector('.checkuser')\n    const register = document.querySelector('.terms')\n\n    checkUser.addEventListener('click', (e) => {\n      Android.showCheckUser()\n    })\n\n    register.addEventListener('click', (e) => {\n      if (window?.DtStartWebViewActivity) {\n        DtStartWebViewActivity.execute('URL_DO_TERMO_AQUI')\n      } else {\n        window.location.href = 'URL_DO_TERMO_AQUI'\n      }\n    })\n\n    const bottomMainButton = document.querySelector('body div.container div.top button')\n\n    bottomMainButton.addEventListener('click', (e) => {\n      if (window?.DtStartWebViewActivity) {\n        DtStartWebViewActivity.execute('URL_AQUI')\n      } else {\n        window.location.href = 'URL_AQUI'\n      }\n    })\n\n    const renew = document.querySelector('.renew')\n    const tutorials = document.querySelector('.tutorials')\n    const update = document.querySelector('.update')\n    const apn = document.querySelector('.apn')\n\n    renew.addEventListener('click', (e) => {\n      if (window?.DtStartWebViewActivity) {\n        DtStartWebViewActivity.execute('t.me/Trader102009')\n      } else {\n        window.location.href = 't.me/Trader102009'\n      }\n    })\n\n    tutorials.addEventListener('click', (e) => {\n      if (window?.DtStartWebViewActivity) {\n        DtStartWebViewActivity.execute('http://asus7.com/smart/')\n      } else {\n        window.location.href = 'https://www.speedtest.net/'\n      }\n    })\n\n    update.addEventListener('click', (e) => {\n      if (window?.DtStartWebViewActivity) {\n        DtStartWebViewActivity.execute('https://www.speedtest.net/')\n      } else {\n        window.location.href = 'https://speedtest.net'\n      }\n    })\n\n    apn.addEventListener('click', (e) => {\n      Android.startApnActivity();\n    })\n  </script>\n</body>\n\n</html>",
         "type": "HTML",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     },
     {
-        "id": 4682,
+        "id": 8636,
         "label": "PAGINA WEBVIEW (POR SUA CONTA E RISCO)",
         "name": "APP_WEB_VIEW",
         "value": null,
         "type": "HTML",
         "status": "ACTIVE",
-        "user_id": "a3b62925-0851-4e8b-8d52-d39f90cf878c"
+        "user_id": "e868f7f6-f3f8-4c52-91e4-2d6eb54c5040"
     }
 ]
