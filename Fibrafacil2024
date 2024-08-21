@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.78",
+  "Version": "2.0.79",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Jssilva74747/FIBRAFACIL/main/Fibrafacil2024",
   "Sms": "",
@@ -288,7 +288,7 @@ HTTP/1.1[lf][lf]",
       "Info": "Proxy"
   },
   {
-      "Name": "🟣VIVO EASY BUG API 🤤💎 [2]",
+      "Name": "🟣VIVO EASY BUG API 🤤💎 [1998]",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
