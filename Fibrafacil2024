@@ -1,7 +1,7 @@
 {
-  "Version": "2.0.81",
+  "Version": "2.0.79",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://raw.githubusercontent.com/Jssilva74747/FIBRAFACIL/main/Fibrafacil2024",
+  "UrlUpdate": "https://raw.githubusercontent.com/Jssilva74747/FIBRAFACIL/refs/heads/main/Fibrafacil2024",
   "Sms": "",
   "EmailFeedback": "apolossh@gmail.com",
   "UrlContato": "https://t.me/apolo_vx",
@@ -27,7 +27,7 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO 2024 CARCARA [1]",
+      "Name": "🟣VIVO SECURITY PEGOU tg[1]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
       "SNI": "",
@@ -266,8 +266,8 @@ HTTP/1.1[lf][lf]",
       "ProxyIP": "104.26.4.32",
       "ProxyPort": "80",
       "Info": "Proxy"
- },
- {
+   },
+   {
       "Name": "🟣VIVO CONTROLE [13]",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: velox2024.online[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
@@ -288,7 +288,7 @@ HTTP/1.1[lf][lf]",
       "Info": "Proxy"
   },
   {
-      "Name": "🟣VIVO EASY BUG API 🤤💎 [1998]",
+      "Name": "🟣VIVO EASY BUG API 🤤💎 [2]",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
@@ -317,7 +317,7 @@ HTTP/1.1[lf][lf]",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-{
+    {
       "Name": "🔵 TIM DDD 91 [1]",
       "FLAG": "tim.png",
       "Payload": "SEARCH /cdn-cgi/trace HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf]Expect: 100-continue[crlf]Connection: Keep-Alive[crlf][crlf][split][crlf]ACL / HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf]Host: emartim.com.br[crlf]Connection: Websocket[crlf]Host: mobile.hom.c6bank.app[crlf]Expect: 100-continue[crlf]Connection: Keep-Alive[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -327,7 +327,7 @@ HTTP/1.1[lf][lf]",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
-{
+     {
       "Name": "🔵 TIM DDD 91 [2]",
       "FLAG": "tim.png",
       "Payload": "SEARCH /cdn-cgi/trace HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf]Expect: 100-continue[crlf]Connection: Keep-Alive[crlf][crlf][split][crlf]ACL / HTTP/1.1[crlf]Host: velox2024.online[crlf]Upgrade: Websocket[crlf]Host: emartim.com.br[crlf]Connection: Websocket[crlf]Host: mobile.hom.c6bank.app[crlf]Expect: 100-continue[crlf]Connection: Keep-Alive[crlf]Upgrade: Websocket[crlf][crlf]",
