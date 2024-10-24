@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.79",
+  "Version": "2.0.80",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Jssilva74747/FIBRAFACIL/refs/heads/main/Fibrafacil2024",
   "Sms": "",
@@ -27,7 +27,7 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO SECURITY PEGOU tg[1]",
+      "Name": "🟣VIVO CARCARA[1]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
       "SNI": "",
