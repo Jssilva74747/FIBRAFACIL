@@ -27,7 +27,7 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO SECURITY PEGOU tg[1]",
+      "Name": "🟣VIVO 2024 CARCARÁ [1]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
       "SNI": "",
