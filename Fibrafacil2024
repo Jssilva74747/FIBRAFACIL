@@ -27,7 +27,7 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO CARCARA[1]",
+      "Name": "🟣VIVO CARCARA[2j]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
       "SNI": "",
