@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.82",
+  "Version": "2.0.83",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Jssilva74747/FIBRAFACIL/refs/heads/main/Fibrafacil2024",
   "Sms": "",
@@ -27,7 +27,7 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO CARCARA 17 RN [2j]",
+      "Name": "🟣VIVO CARCARA 17/11/2024 RN [2j]",
       "FLAG": "vivo.png",
       "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
       "SNI": "",
