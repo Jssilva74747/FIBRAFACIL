@@ -27,12 +27,12 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO CARCARA 17/11/2024 RN [2j]",
+      "Name": "🟣VIVO TV BOX ",
       "FLAG": "vivo.png",
-      "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
+      "Payload": "GET /lockeed HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.234.224.152",
+      "ProxyIP": "162.159.135.63",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
