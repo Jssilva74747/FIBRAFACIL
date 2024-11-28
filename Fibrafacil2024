@@ -38,9 +38,9 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO TV BOX ",
+      "Name": "🟣VIVO TODOS DDD L ",
       "FLAG": "vivo.png",
-      "Payload": "GET /lockeed HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v95.thur.store[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.135.63",
