@@ -38,7 +38,7 @@
   ],
 "Networks": [
    {
-      "Name": "🟣VIVO TODOS DDD L ",
+      "Name": "🟣VIVO TESTANDO ",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: v95.thur.store[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
