@@ -184,8 +184,8 @@
         },
         "icon": "https://raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_VPN/page/null/IC/CLARO_P.png",
         "id": 84980,
-        "mode": "SSL_DIRECT",
-        "name": "✅ TIM MÉTODO GRINGO",
+        "mode": "SSL_PROXY",
+        "name": "✅ TIM MÉTODO GRINGO 10",
         "proxy": {
             "host": "162.247.241.4",
             "port": 443
