@@ -138,11 +138,11 @@
         "name": "✅ VIVO API EASY",
         "proxy": {
             "host": "api.vivo.com.br",
-            "port": 80
+            "port": 8080
         },
         "server": {
             "host": "vpn.veloxfusions.top",
-            "port": 80
+            "port": 8080
         },
         "sorter": 1,
         "status": "ACTIVE",
